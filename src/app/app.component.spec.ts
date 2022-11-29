@@ -1,3 +1,14 @@
+/*
+* File: app.component.spec.ts
+* Author: Orosz Levente
+* Copyright: 2022, Orosz Levente
+* Group: SZOFT-II-N
+* Date: 2022-11-29
+* Github: https://github.com/Olevente/
+* Licenc: GNU GPL
+*/
+
+
 import { TestBed } from '@angular/core/testing';
 import { AppComponent } from './app.component';
 
